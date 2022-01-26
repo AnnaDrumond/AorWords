@@ -1,0 +1,155 @@
+ID;PT;EN
+1;                                  O QUE ESTAVA A FALTAR AO SEU NEGÓCIO;                                      WHAT WAS MISSING IN YOUR BUSINESS
+2;ENTRAR;LOGIN
+3;REGISTAR;SIGN-UP
+4;Entre em contacto com AoRWordsSupport@mail.com para criar a sua conta.;Contact AoRWordsSupport@mail.com to create your account.
+5;VOLTAR;RETURN
+6;SAIR;LOG-OUT
+7;                                                                     ENTRAR;                                                                     LOGIN
+8;E-mail;E-mail
+9;Palavra-chave;Password
+10;ENTRAR;LOGIN
+11;Dados de login inválidos;Invalid login
+12;Erro Login;Login Error
+13;Bem-vindo ;Welcome 
+14;                                                          MENU
+15;NOVA FRASE;NEW QUOTE
+16;CONTA;ACCOUNT
+17;EDITAR FRASE;EDIT QUOTE
+18;NOVA APLICAÇÃO;NEW APP
+19;CONTRATOS;CONTRACTS
+20;CONFIGURAÇÕES;CONFIGURATIONS
+21;NOVO UTILIZADOR;NEW USER
+22;ADICIONAR ANÚNCIO;ADD ADVERTISEMENT
+23;CRIAR;CREATE
+24;Publicitário;Advertiser
+25;Programador;Programmer
+26;Intermediário;Intermediary
+27;Número de Telefone Inválido;Invalid Phone Number
+28;Erro ao Digitar o Número de Telefone;Error Typing Phone Number
+29;                                    ADICIONAR NOVO UTILIZADOR;                                                  ADD NEW USER
+30;Nome;Name
+31;Morada;Address
+32;Telefone;Phone Number
+33;ADICIONAR;ADD
+34;FRASES A EXIBIR;QUOTES TO DISPLAY
+35;                                      ADICIONAR NOVA APLICAÇÃO;                                                    ADD NEW APP
+36;Nome da Aplicação;App name
+37;Descrição;Description
+38;Valor Unitário;Unitary Value
+39;E-mail do Programador;Programmer's E-mail
+40;                                            ADICIONAR NOVA FRASE;                                                ADD NEW QUOTE
+41;Frase;Quote
+42;Número de Exibições;Number os Exibitions
+43;E-mail do Publicitário;Advertiser's E-mail
+44;DEPOSITAR;DEPOSIT
+45;LEVANTAR;WITHDRAW
+46;HISTÓRICO;HISTORY
+47;Saldo: ;Balance: 
+48;                                                          CONTA;                                                        ACCOUNT;
+49;E-mail Inválido;Invalid E-mail
+50;Erro ao digitar o E-mail;Error typing E-mail
+51;Número de Exibições Inválido;Invalid Number of Exibitions
+52;Erro ao Digitar o Número de Exibições;Error Typing Number of Exibitions
+53;Valor Unitário Inválido;Invalid Single Value
+54;Erro ao Digitar Valor Unitário;Error Typing Single Value
+55;Nome Inválido;Invalid Name
+56;Erro ao Digitar o Nome;Error Typing Name
+57;ATUALIZAR;UPDATE
+58;APAGAR CONTA;DELETE ACCOUNT
+59;                                                       CONFIGURAÇÕES;                                                       CONFIGURATIONS
+60;Dados Atualizados com Sucesso!;Data Updated Successfully!
+61;Confirma que deseja eliminar a sua conta?;Do you confirm that you wish to delete your account?
+62;ATENÇÃO;WARNING
+63;Conta eliminada com sucesso!;Account successfully deleted!
+64;O E-mail introduzido corresponde ao perfil de um Publicitário/Intermediário!;The E-mail inputed belongs to an Advertiser/Intermediary
+65;O E-mail introduzido corresponde ao perfil de um Programador/Intermediário!;The E-mail inputed belongs to a Programmer/Intermediary
+66;                                               LISTA DE FRASES;                                               LIST OF QUOTES
+67;                                             ADICIONAR ANÚNCIO;                                             ADD ADVERTISEMENT
+68;                                             LISTA DE APLICAÇÕES;                                             LIST OF APPLICATIONS
+69;Selecione a aplicação a editar;Select the app to update
+70;Aplicação atualizada com Sucesso!;Application Successfully Updated!
+71;EDITAR APLICAÇÃO;EDIT APPLICATION
+72;O E-mail introduzido encontra-se atribuído a outro utilizador;The inputed E-mail already belong to another user
+73;Frase atualizada com Sucesso!;Quote Successfully Updated!
+74;Selecione a frase a editar;Select the quote to update
+75;Aplicação adicionada com Sucesso!;Application Successfully Added!
+76;Frase adicionada com Sucesso!;Quote Successfully Added!
+77;Publicitário criado com Sucesso!;Advertiser Successfully created!
+78;Programador criado com Sucesso!;Programmer Successfully created!
+79;Intermediário criado com Sucesso!;Intermediary Successfully created!
+80;Introduza a sua frase;Input your quote
+81;Introduza a sua aplicação;Input your application
+82;Não possui frases!;You don't have quotes!
+83;Nome do Programador; Programmer Name;
+84;                                           ADICIONAR ANÚNCIO;                                          ADD ADVERTISEMENT;
+85;Custo Total: ;Total Cost: 
+86;Número de exibições;Number of views
+87;Selecione uma aplicação;Select an application;
+88;Erro;Error
+89;Valor por exibição;Value per view
+90;CONTINUAR;CONTINUE;
+91;E-mail do publicitário;Advertiser's E-mail
+92;Escolha a frase a ser anunciada;Choose the quote to be announced
+93;Pretende estabelecer contrato?;Do you wish to establish a contract?
+94;Estabelecer contrato;Establish a contract
+95;Valor a Depositar:;Amount to Deposit:
+96;Valor a Levantar:;Amount to Withdraw:
+97;EDITAR;EDIT
+98;                                     INTRODUZA O E-MAIL DO UTILIZADOR;                     INPUT THE USER'S E-MAIL
+99;O E-mail introduzido não se encontra registado!;The inputed E-mail is not registered!
+100;                                                 CONTRATOS ESTABELECIDOS;                                                     ESTABLISHED CONTRACTS
+101;Data;Date
+102;Não possui Contratos Estabelecidos!;You don't have Established Contracts!
+103;Receitas;Profit
+104;Tipo de Movimento;Movement Type
+105;Valor;Value
+106;Filtrar por Utilizador (E-mail);Filter by User (E-mail)
+107;Filtrar por Data;Filter by Date
+108;Não possui saldo suficiente para criar o Anúncio!;You don't have sufficient balance to create the Advertisement!
+109;                                                 SUAS APLICAÇÕES;                                                    YOUR APPS
+110;                                                 FRASES A EXIBIR;                                              QUOTES TO DISPLAY
+111;PESQUISAR;SEARCH
+112;                                                   SUAS FRASES;                                                   YOUR QUOTES
+113;APPS ONDE EXIBIR FRASES;APPS DISPLAYING QUOTES
+114;                                      APPS ONDE EXIBIR FRASES;                                      APPS DISPLAYING QUOTES
+115;Não existe um Anúncio com a frase selecionada!;The selected quote isn't in any advertisement
+116;Não existe um Anúncio com a aplicação selecionada!;The selected application isn't in any advertisement
+117;FILTRAR;FILTER
+118;                                                 CONFIGURAÇÕES;                                                CONFIGURATIONS
+119;Erro ao digitar a data!Error typing date!
+120;Data inválida;Invalid date
+121;O E-mail digitado não está registado;The inputed E-mail is not registered
+122;Introduza a informação a filtrar;Input the information to filter
+123;                                  MOVIMENTOS FINANCEIROS FILTRADOS;                                               FILTERED FINANCIAL FLOW
+124;utilizador@...;user@...
+125;MOVIMENTOS UTILIZADORES;USERS MOVEMENTS
+126; fundador ; founder 
+127;                               MOVIMENTOS FINANCEIROS DA EMPRESA;                            FINANCIAL MOVEMENTS OF THE COMPANY
+128;MOVIMENTOS EMPRESA;COMPANY MOVEMENTS
+129;                                             MOVIMENTOS FINANCEIROS;                                                  FINANCIAL MOVEMENTS
+130;Escolha a data que deseja consultar;Choose the date you wish to verify
+131;Escolha o ID do utilizador a consultar;Choose the user's ID you wish to verify
+132;O valor introduzido é superior ao saldo atual!;The inputed value is higher than the current balance!
+133;Erro ao digitar o valor a levantar!;Error typing the value to withdraw!
+134;Esqueceu os dados do Login?;Have you forgotten your login data?
+135;Entre em contacto com AoRWordsSupport@mail.com para recuperar a sua conta.;Contact AoRWordsSupport@mail.com to recover your account.
+136;Clique no nome da coluna para ordenar a tabela;Click on the name of the column to sort it
+137;Erro ao digitar o valor a depositar!;Error typing the value to deposit!
+138;Introduza a frase;Input the quote
+139;VER UTILIZADORES;SEE USERS
+140;ID Utilizador;User ID
+141;                                                     LISTA DE UTILIZADORES;                                                                   USER'S LIST
+142;Deixou alguma caixa de texto por preencher!;You left some textbox empty!
+143;Selecione as componentes do anúncio!;Select the advertisement components!
+144;Tipo de utilizador;User type;
+145;Fundador;Founder
+146;Para poder eliminar a conta, levante primeiro o seu saldo no ecrã conta!;To delete your account, first withdraw your balance in the account panel!
+147;Selecione uma frase;Select a phrase
+148;Selecione uma data;Select a date
+149;Selecione as componentes que pretende filtrar;Select the components you wish to filter
+150;Não possui aplicações!;You don't have apps!
+151;DEPOSITO;DEPOSIT
+152;LEVANTAMENTO;WITHDRAWAL
+153;PAGAMENTO;PAYMENT
+154; €

@@ -1,0 +1,3 @@
+# AorWords
+....
+Projeto desenvolvido em contexto academico, com utilização de 

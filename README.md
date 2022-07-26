@@ -1,6 +1,6 @@
 Projeto desenvolvido em contexto academico, com utilização de:
 
-* JAVA
+* JAVA 17
 * JAVA SWING
 
 O projeto visa desenvolver um programa JAVA standalone, com o intuito de gerir a contabilização, valorização e a inserção de frases publicitárias em aplicações móveis.
